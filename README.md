@@ -1,4 +1,4 @@
-- Hello, I'm @elirwater
+- Hello, I'm @elirwater and
  I'm very interested in Machine Learning tools and Data Science, along with Java and OOD.
 
 
